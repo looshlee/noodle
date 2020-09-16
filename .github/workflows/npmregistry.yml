@@ -1,7 +1,6 @@
 name: NPM Package Registry
-on:
-  release:
-    types: [created]
+on: watch
+
 jobs:
   build:
     runs-on: ubuntu-latest
