@@ -1,6 +1,6 @@
 {
-  "name": "noodle-looshlee",
-  "version": "1.0.1",
+  "name": "@looshlee/noodle",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
